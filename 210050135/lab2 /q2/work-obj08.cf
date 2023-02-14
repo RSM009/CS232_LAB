@@ -1,0 +1,10 @@
+v 4
+file . "fulladder.vhd" "1ef2321e56992a5b3b58da18b9a0ad2175b6bbed" "20230203091524.118":
+  entity fulladder at 1( 0) + 0 on 15;
+  architecture behavioral of fulladder at 12( 240) + 0 on 16;
+file . "tb.vhd" "52e2ca8c72171c3947b754afad3470a74a67af5c" "20230203091524.117":
+  entity tb at 1( 0) + 0 on 13;
+  architecture tb of tb at 7( 70) + 0 on 14;
+file . "RCA8.vhd" "a1435fb2fd5b24b5f02ccfec78066aff1bdc0580" "20230203091524.116":
+  entity rca8 at 1( 0) + 0 on 11;
+  architecture structural of rca8 at 10( 189) + 0 on 12;

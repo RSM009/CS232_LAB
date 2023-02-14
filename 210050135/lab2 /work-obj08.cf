@@ -1,0 +1,7 @@
+v 4
+file . "nand_gate.vhd" "587471d1dd1e1f17da9e9a8eb0a975fe141369b9" "20230131171502.485":
+  entity nand_gate at 1( 0) + 0 on 23;
+  architecture behaviour of nand_gate at 12( 184) + 0 on 24;
+file . "nand_tb.vhd" "cf5bf0168add44ad6af456c186c549414ea90807" "20230131171502.487":
+  entity tb at 1( 0) + 0 on 25;
+  architecture tb of tb at 7( 76) + 0 on 26;

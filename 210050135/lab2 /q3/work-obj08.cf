@@ -1,0 +1,7 @@
+v 4
+file . "RLE_test.vhd" "1906d387dac84e523e9b68d019f89d8f89a2dfdf" "20230202180453.570":
+  entity ascii_read_test at 1( 0) + 0 on 109;
+  architecture reader of ascii_read_test at 9( 134) + 0 on 110;
+file . "RLE.vhd" "29e80568028df67fea9c8e7d904bcee8e98e6857" "20230202180453.569":
+  entity rle_encoder at 2( 1) + 0 on 107;
+  architecture behavioral of rle_encoder at 13( 316) + 0 on 108;
